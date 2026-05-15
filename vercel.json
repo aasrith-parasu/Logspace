@@ -1,6 +1,3 @@
 {
-  "buildCommand": "cd logspace-app && npm install && npm run build",
-  "outputDirectory": "logspace-app/.next",
-  "installCommand": "cd logspace-app && npm install",
-  "framework": "nextjs"
+  "rootDirectory": "logspace-app"
 }
